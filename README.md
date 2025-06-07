@@ -11,3 +11,4 @@ tiktok reporter bot
 tiktok report app
 tiktok ban bot
 tiktok report app
+tiktok mass report
