@@ -12,7 +12,7 @@ tiktok mass reporting accounts tool
 # tiktok ban bot
 # tiktok report app
 # tiktok mass report
-tiktok ban tool
+# tiktok ban tool
 tiktok report tool
 tiktok ban tool
 tiktok mass report
