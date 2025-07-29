@@ -17,4 +17,4 @@ tiktok mass reporting accounts tool
 # tiktok ban tool
 # tiktok mass report
 # tiktok banner
-# tiktok ban reporter
+# tiktok ban report
