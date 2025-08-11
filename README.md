@@ -20,3 +20,4 @@ tiktok mass reporting accounts tool
 # tiktok ban report
 # tiktok reporter
 # tiktik ban reporter
+# tiktok mass reporter 
